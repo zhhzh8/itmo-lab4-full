@@ -1,3 +1,3 @@
-![Image alt](https://github.com/zhhzh8/itmo-lab4-full/raw/master/image/lab4.png)
+![Image alt](https://github.com/zhhzh8/itmo/raw/main/images/lab4.png)
 
-[Ссылка файл](lab4.py)
+[Ссылка на код](https://github.com/zhhzh8/itmo/blob/msin/python/1sem/lab4.py)
